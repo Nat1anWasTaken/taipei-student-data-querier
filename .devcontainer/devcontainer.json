@@ -2,16 +2,5 @@
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/ruff:1": {}
-	},
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"ms-python.vscode-pylance",
-				"ms-python.python",
-				"GitHub.copilot",
-				"GitHub.copilot-chat",
-				"k--kato.intellij-idea-keybindings"
-			]
-		}
 	}
 }
